@@ -1,0 +1,15 @@
+C:\Users\Dc\source\repos\HelloooWorld\HelloooWorld\bin\Debug\net6.0\HelloooWorld.exe
+C:\Users\Dc\source\repos\HelloooWorld\HelloooWorld\bin\Debug\net6.0\HelloooWorld.deps.json
+C:\Users\Dc\source\repos\HelloooWorld\HelloooWorld\bin\Debug\net6.0\HelloooWorld.runtimeconfig.json
+C:\Users\Dc\source\repos\HelloooWorld\HelloooWorld\bin\Debug\net6.0\HelloooWorld.dll
+C:\Users\Dc\source\repos\HelloooWorld\HelloooWorld\bin\Debug\net6.0\HelloooWorld.pdb
+C:\Users\Dc\source\repos\HelloooWorld\HelloooWorld\obj\Debug\net6.0\HelloooWorld.csproj.AssemblyReference.cache
+C:\Users\Dc\source\repos\HelloooWorld\HelloooWorld\obj\Debug\net6.0\HelloooWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dc\source\repos\HelloooWorld\HelloooWorld\obj\Debug\net6.0\HelloooWorld.AssemblyInfoInputs.cache
+C:\Users\Dc\source\repos\HelloooWorld\HelloooWorld\obj\Debug\net6.0\HelloooWorld.AssemblyInfo.cs
+C:\Users\Dc\source\repos\HelloooWorld\HelloooWorld\obj\Debug\net6.0\HelloooWorld.csproj.CoreCompileInputs.cache
+C:\Users\Dc\source\repos\HelloooWorld\HelloooWorld\obj\Debug\net6.0\HelloooWorld.dll
+C:\Users\Dc\source\repos\HelloooWorld\HelloooWorld\obj\Debug\net6.0\refint\HelloooWorld.dll
+C:\Users\Dc\source\repos\HelloooWorld\HelloooWorld\obj\Debug\net6.0\HelloooWorld.pdb
+C:\Users\Dc\source\repos\HelloooWorld\HelloooWorld\obj\Debug\net6.0\HelloooWorld.genruntimeconfig.cache
+C:\Users\Dc\source\repos\HelloooWorld\HelloooWorld\obj\Debug\net6.0\ref\HelloooWorld.dll
