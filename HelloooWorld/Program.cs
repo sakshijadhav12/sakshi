@@ -12,7 +12,13 @@ namespace hellooWorld
             calculate calculate = new calculate();
             calculate.AditionOfTwoNumbers();
             Console.ReadLine();
-        
-         }
+            calculate.SubtractionOfTwoNumbers();
+           Console.ReadLine();
+            calculate.MultiplicationOfTwoNumbers();
+           Console.ReadLine();
+            calculate.DivisionOfTwoNumbers();
+            Console.ReadLine();
+
+        }
     }
 }
