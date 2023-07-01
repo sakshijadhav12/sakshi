@@ -18,6 +18,9 @@ namespace hellooWorld
            Console.ReadLine();
             calculate.DivisionOfTwoNumbers();
             Console.ReadLine();
+            calculatator calculatator = new calculatator();
+           // calculatator.AditionOfTwoNumbers(int FNum,int SecNum);
+            //Console.ReadLine();
 
         }
     }
